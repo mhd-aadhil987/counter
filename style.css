@@ -1,0 +1,40 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        #counter {
+            font-size: 48px;
+            margin: 20px 0;
+        }
+
+        .btn {
+            font-size: 20px;
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .decrease {
+            background-color: black;
+            color: white;
+        }
+
+        .reset {
+            background-color: lightblue;
+            color: black;
+        }
+
+        .increase {
+            background-color: blue;
+            color: white;
+        }
